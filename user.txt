@@ -1,0 +1,21 @@
+USER STORY
+
+When user loads the page, user will see a blue creature that is in a healthy state
+Hunger is at 0
+Sleepiness is at 0
+Boredom is at 0
+Age is 0
+User will see an Input Name field with a start button next to Input
+User will input creature name and start the game
+Once game starts, hunger scale goes up by 1
+then sleepiness goes up by 1
+then boredom goes up by 1
+user clicks on the button under food, and hunger scale will go back down 1
+user clicks on the button under light, and sleepiness scale goes down 1
+user clicks on the button under play, and boredom goes down 1
+user sees age go up every minute
+user sees hunger go up 1 every .5 seconds
+user sees sleepiness go up every .5 seconds
+user sees boredom go up every .5 seconds
+user sees hunger scale at 9 and then 10
+at 10, creature dies, and text shows at the bottom game over.
